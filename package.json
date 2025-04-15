@@ -1,0 +1,11 @@
+{
+  "name": "nagad-lock-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vercel dev",
+    "start": "node api/lock-nagad.js"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
