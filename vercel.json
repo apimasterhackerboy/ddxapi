@@ -8,8 +8,8 @@
   ],
   "routes": [
     {
-      "src": "/lock-nagad",
-      "dest": "api/lock-nagad.js"
+      "src": "/api/lock-nagad",
+      "dest": "/api/lock-nagad.js"
     }
   ]
 }
