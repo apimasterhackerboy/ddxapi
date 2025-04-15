@@ -1,6 +1,12 @@
 {
   "name": "nagad-locker",
   "version": "1.0.0",
-  "main": "index.js",
-  "type": "module"
+  "description": "Nagad account locker deployed on Vercel",
+  "main": "api/lock-nagad.js",
+  "scripts": {
+    "start": "vercel dev"
+  },
+  "author": "Tofazzal Hossain",
+  "license": "MIT",
+  "dependencies": {}
 }
